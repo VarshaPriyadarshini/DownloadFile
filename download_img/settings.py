@@ -25,7 +25,7 @@ SECRET_KEY = 'd%#%lyfb169z903^=9mw@171ej6bba#5&9pw0&bx4(z06vupqd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["downloadfileccvarsha.herokuapp.com"]
 
 
 # Application definition
